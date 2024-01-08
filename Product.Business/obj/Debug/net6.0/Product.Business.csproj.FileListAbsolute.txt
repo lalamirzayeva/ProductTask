@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\Product\Product.Business\bin\Debug\net6.0\Product.Business.deps.json
+C:\Users\Hp\source\repos\Product\Product.Business\bin\Debug\net6.0\Product.Business.dll
+C:\Users\Hp\source\repos\Product\Product.Business\bin\Debug\net6.0\Product.Business.pdb
+C:\Users\Hp\source\repos\Product\Product.Business\obj\Debug\net6.0\Product.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Product\Product.Business\obj\Debug\net6.0\Product.Business.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Product\Product.Business\obj\Debug\net6.0\Product.Business.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Product\Product.Business\obj\Debug\net6.0\Product.Business.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Product\Product.Business\obj\Debug\net6.0\Product.Business.dll
+C:\Users\Hp\source\repos\Product\Product.Business\obj\Debug\net6.0\refint\Product.Business.dll
+C:\Users\Hp\source\repos\Product\Product.Business\obj\Debug\net6.0\Product.Business.pdb
+C:\Users\Hp\source\repos\Product\Product.Business\obj\Debug\net6.0\ref\Product.Business.dll
+C:\Users\Hp\source\repos\Product\Product.Business\bin\Debug\net6.0\Product.Core.dll
+C:\Users\Hp\source\repos\Product\Product.Business\bin\Debug\net6.0\Product.Core.pdb
+C:\Users\Hp\source\repos\Product\Product.Business\obj\Debug\net6.0\Product.Business.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Product\Product.Business\obj\Debug\net6.0\Product.Business.csproj.CopyComplete

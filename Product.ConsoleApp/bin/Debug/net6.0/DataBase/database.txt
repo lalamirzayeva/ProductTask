@@ -1,0 +1,2 @@
+Id: 0; Name: Phone; Price: 1500
+Id: 1; Name: Phone 2 ; Price: 3000
