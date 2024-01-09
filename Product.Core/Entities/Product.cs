@@ -4,13 +4,21 @@ namespace Product.Core.Entities;
 
 public class Product:IEntity
 {
-    public int Id { get; set; }
+    public int Id { get; }
+    private static int _id;
     public string Name { get; set; }
     public decimal Price { get; set; }
-    public Product(int id, string name, decimal price)
+    public Product(string name, decimal price)
     {
-        Id = id;
+        Id = _id++;
         Name = name;
         Price = price;
+        Directory.CreateDirectory(@".\DataBase");
+        if (!File.Exists(@".\DataBase\database.txt"))
+        {
+            var myFile = File.Create(@".\DataBase\database.txt");
+            myFile.Close();
+            //File.Create(@".\DataBase\database.txt");
+        }
     }
 }

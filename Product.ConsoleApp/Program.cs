@@ -22,13 +22,11 @@ Start:
                 case (int)OptionEnum.CreateProduct:
                     try
                     {
-                        Console.WriteLine("Enter ID of the product:");
-                        int productId = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("Enter product name:");
                         string? productName = Console.ReadLine();
                         Console.WriteLine("Enter product price:");
                         decimal productPrice = Convert.ToDecimal(Console.ReadLine());
-                        productService.CreateProduct(productId, productName, productPrice);
+                        productService.CreateProduct(productName, productPrice);
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine("Product has been added.");
                         Console.ResetColor();
